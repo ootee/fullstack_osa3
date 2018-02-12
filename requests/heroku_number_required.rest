@@ -1,0 +1,6 @@
+POST https://frozen-beach-68492.herokuapp.com/api/persons
+content-type: application/json
+
+{
+    "name": "Matti Meikäläinen"
+}
